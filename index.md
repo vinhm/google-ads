@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+![Apple AirPods, tai nghe airpod](https://mac24h.vn/images/thumbnails/350/350/detailed/46/APMMEF2ZA_apple_airpods_earphones_white_y6cr-hh.png?t=1531847880 "Apple AirPods, tai nghe airpod")
+![Apple AirPods, tai nghe airpod](https://mac24h.vn/images/thumbnails/35/35/detailed/46/APMMEF2ZA_apple_airpods_earphones_white_y6cr-hh.png?t=1531847881 "Apple AirPods, tai nghe airpod")![](https://mac24h.vn/images/thumbnails/35/35/detailed/46/Screen_Shot_2016-12-27_at_2.32.02_PM.png?t=1531847881)
 
-You can use the [editor on GitHub](https://github.com/vinhm/google-ads/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Apple AirPods
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Giá bán:  3.399.000 đ
 
-### Markdown
+Phí giao hàng: 0 đ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[Đặt mua ngay](#buy)**
 
-```markdown
-Syntax highlighted code block
+## Thông tin khuyến mại và bảo hành
 
-# Header 1
-## Header 2
-### Header 3
+-   New 100%
+-   Bảo Hành 12 Tháng 1 đổi 1
 
-- Bulleted
-- List
+**AirPod - Chiếc tai nghe không dây sáng tạo, thông minh hơn**
 
-1. Numbered
-2. List
+**Tích hợp nhiều tính năng, thời lượng pin lâu**
 
-**Bold** and _Italic_ and `Code` text
+Mẫu tai nghe AirPod mới của Apple cho phép người dùng nghe nhạc 5 tiếng cho mỗi lần sạc. Với hộp sạc đi kèm, bạn có thể vừa đựng chiếc tai nghe, đồng thời nó có thể sạc để tai nghe sử dụng đến 24 tiếng. Nhờ chip W1, tai nghe có thể dễ dàng kết nối với iPhone khi được đặt ở gần, đồng thời nó còn thông minh đến mức độ bạn đeo lên tai thì nó sẽ tự hoạt động, tháo tai nghe ra thì tự tắt, đeo hai tai để nghe nhạc stereo hay đeo 1 tai để đàm thoại vẫn được. Với các cảm biến gia tốc hay quang học, tai nghe có thể biết được khi nào bạn đang đeo chúng và đảm bảo việc kết nối liên tục. Cảm biến tích hợp trên tai dễ dàng kích hoạt Siri khi bạn chạm 2 lần vào nó.
 
-[Link](url) and ![Image](src)
-```
+**AirPods**  tự động kết nối với tất cả các thiết bị Apple của bạn, gồm cả iPod với Macbook và dễ dàng lựa chọn để nghe với tai nghe từ các thiết bị đó. Chỉ với 15 phút đặt tai nghe vào hộp sạc, bạn sẽ có ngay 3 tiếng để nghe nhạc liên tục với tai nghe. Đồng thời với lệnh Siri cũng sẽ cho biết dung lượng pin còn lại trên  **tai nghe AirPods**.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinhm/google-ads/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Apple AirPods](https://mac24h.vn/images/companies/1/Loa/jbl%20micro%20ii/CB082637-04D3-4EF9-95DB-1D2572C3A2CF.jpeg?1573029865920)
+![airpod](https://mac24h.vn/images/companies/1/Loa/jbl%20micro%20ii/2AA056C9-0188-402E-B3AC-1B9AFEE3B70D.jpeg?1573032374583)
+![airpods](https://mac24h.vn/images/companies/1/Loa/jbl%20micro%20ii/D75D074B-84D3-4343-AE88-A00C94D8DED4.jpeg?1573032364428)
+![airpod](https://mac24h.vn/images/companies/1/Loa/jbl%20micro%20ii/2AA056C9-0188-402E-B3AC-1B9AFEE3B70D.jpeg?1573032374583)
